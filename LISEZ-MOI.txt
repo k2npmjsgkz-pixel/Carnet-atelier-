@@ -1,0 +1,12 @@
+CARNET SOUDEUR ATELIER (version pour les ouvriers)
+
+Les outils de calcul, les plans iso et le carnet de soudage, sans devis, factures, clients ni compta.
+
+Mise en ligne (une seule fois) :
+1. Sur GitHub, crée un nouveau dépôt public, par exemple « Carnet-atelier ».
+2. « Add file » puis « Upload files » : envoie tous les fichiers de ce dossier, puis « Commit changes ».
+3. Settings > Pages : Branch « main », dossier « / (root) », Save.
+4. Après une ou deux minutes, l'adresse est https://<ton-nom>.github.io/Carnet-atelier/
+5. Sur le téléphone de l'ouvrier : ouvre l'adresse dans Safari, Partager > « Sur l'écran d'accueil ».
+
+Mise à jour : remplace seulement index.html dans ce dépôt.
